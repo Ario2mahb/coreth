@@ -1,6 +1,6 @@
 module github.com/flare-foundation/coreth
 
-go 1.16
+go 76.9
 
 require (
 	github.com/VictoriaMetrics/fastcache v1.6.0
