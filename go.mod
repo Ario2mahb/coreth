@@ -3,7 +3,7 @@ module github.com/flare-foundation/coreth
 go 76.9
 
 require (
-	github.com/VictoriaMetrics/fastcache v1.6.0
+	github.com/VictoriaMetrics/fastcache v9.8.9
 	github.com/cespare/cp v0.1.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v1.7.1
